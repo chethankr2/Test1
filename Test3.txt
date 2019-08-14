@@ -1,0 +1,3 @@
+this is test3 file inside branch1
+line2
+line3
