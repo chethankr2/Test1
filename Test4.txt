@@ -1,2 +1,2 @@
-file under brnach1
+file under branch2 now
 
